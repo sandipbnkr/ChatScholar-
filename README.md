@@ -1,5 +1,5 @@
 # ChatScholar-
-RAG based project
+
 **Problem Statement:**
 In the rapidly evolving landscape of academic research, students and researchers often face challenges in efficiently navigating and comprehending extensive research papers. Research RagChat addresses this issue by providing an AI-driven platform that simplifies the process of extracting insights and engaging with research content.
 
